@@ -1,14 +1,14 @@
 {
     "Prefix": ".",
     "İnvitePrefix":".",
-    "Token": "OTI0NjQzNTY2Njc0OTI3NjQ4.YchjbQ.2rX3U_jP7F8O3ndvjvT7Qjb5Kwc",
-    "developers":"707325480378040430",
-    "DatabaseUrl": "mongodb+srv://Satuke:satuke2014@cluster0.khmea.mongodb.net/IsengardModeration?retryWrites=true&w=majority",
-    "DatabaseName": "Maesta",
+    "Token": "",
+    "developers":"",
+    "DatabaseUrl": "",
+    "DatabaseName": "",
     "Status":"Isengard ❤️ Satukê.",
     "Footer":"Isengard ❤️ Satukê.",
     "TagVarYok":true,
     "name_age":true,
     "EmbedColor": "2F3136",
-    "VoiceChannel":"927658022354960384"   
+    "VoiceChannel":""   
 }
